@@ -1,6 +1,3 @@
-# aws-ec2-networking-troubleshooting
-Project demonstrating public vs private IP addresses in AWS
-
 # AWS EC2 Networking Troubleshooting Project
 
 ## Project Overview
